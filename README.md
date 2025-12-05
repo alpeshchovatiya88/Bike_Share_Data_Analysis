@@ -35,6 +35,9 @@ This dataset contains 2 records with following 3 columns.
 **2. price:** price per ride rental.     
 **3. COGS:** Cost of the goods.
 
+## PowerBI Dashboard.
+<img width="1238" height="720" alt="BikeShare_PowerBI_Dashboard" src="https://github.com/user-attachments/assets/9780b1ba-2e26-4ca1-8a63-6f65a92c2fa5" />
+
 ### Key Findings Summary:
 
 1. Strong Overall Business Performance.  
